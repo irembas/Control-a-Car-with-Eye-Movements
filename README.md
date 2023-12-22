@@ -1,5 +1,5 @@
 
-Proje Adı: Göz Hareketleri ile Araba Kontrolü
+###Proje Adı: Göz Hareketleri ile Araba Kontrolü###
 Proje Özeti
 Bu proje, göz hareketlerini algılayarak bir aracı kontrol etmeyi amaçlar. Özellikle omurilik felci gibi hareket kabiliyeti kısıtlı bireyler için tasarlanmıştır. Proje, yüz ve göz tespiti, göz hareketlerinin analizi ve bu bilgilerin bir aracı yönlendirmek için kullanılmasını içerir. Sistem, göz hareketlerini takip eden bir kamera ve bu verileri işleyerek aracı kontrol eden bir mikrodenetleyici üzerine kuruludur.
 
